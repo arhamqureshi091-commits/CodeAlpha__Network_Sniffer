@@ -20,8 +20,8 @@ This project is Task 1 of the CodeAlpha Cybersecurity Internship. It is an advan
 ## 🚀 Installation & Setup
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/YourUsername/CodeAlpha_Network_Sniffer.git](https://github.com/YourUsername/CodeAlpha_Network_Sniffer.git)
-   cd CodeAlpha_Network_Sniffer
+   git clone [https://github.com/arhamqureshi091-commits/CodeAlpha__Network_Sniffer.git](https://github.com/arhamqureshi091-commits/CodeAlpha__Network_Sniffer.git)
+   cd CodeAlpha__Network_Sniffer
 
 2. Create and activate a virtual environment:
 
