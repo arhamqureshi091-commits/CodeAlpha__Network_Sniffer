@@ -1,0 +1,5 @@
+## ⚙️ Requirements
+* Python 3.x
+* `scapy`
+* `colorama`
+* **Windows Users:** You must have [Npcap](https://npcap.com/) installed in WinPcap API-compatible mode to capture raw packets.
